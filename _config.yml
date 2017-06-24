@@ -8,8 +8,8 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 author_name:        "Gulya Radjapova" # Your name here
 author_email:       gulya.radjapova@gmail.com # Your email here
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
-twitter_username:   HeiswayiNrird # Your Twitter username here
-github_username:    heiswayi # Your GitHub username here
+twitter_username:   avopajdar # Your Twitter username here
+github_username:    gulyaradj # Your GitHub username here
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
